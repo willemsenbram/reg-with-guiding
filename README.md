@@ -7,16 +7,22 @@ Repository for the paper "[Referring Expression Generation in Visually Grounded 
 Please cite the following work if you use anything from this repository or from our paper:
 
 ```bibtex
-@inproceedings{willemsen-skantze-2024-referring,
+@inproceedings{willemsen-skantze-2024-referring-expression,
     title = "Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding",
     author = "Willemsen, Bram  and
       Skantze, Gabriel",
+    editor = "Mahamood, Saad  and
+      Minh, Nguyen Le  and
+      Ippolito, Daphne",
     booktitle = "Proceedings of the 17th International Natural Language Generation Conference",
     month = sep,
     year = "2024",
     address = "Tokyo, Japan",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.inlg-main.38",
+    pages = "453--469"
 }
+
 ```
 
 ***
